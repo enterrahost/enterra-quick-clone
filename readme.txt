@@ -5,7 +5,7 @@ Author: Enterrahost
 Author URI: https://enterrahost.com
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,10 +50,16 @@ Not yet — but we’re working on it!
 
 == Changelog ==
 
+= 1.0.1 =
+* minor code cleanup and made the code more robust
+
 = 1.0.0 =
 * Initial release with basic clone and clone & edit functionality.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Suggested Upgrade for code robustnes but no new features added.
 
 = 1.0.0 =
 First release. No upgrades needed yet.
